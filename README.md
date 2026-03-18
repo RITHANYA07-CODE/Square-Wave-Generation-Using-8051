@@ -16,6 +16,8 @@ o	Resistor (1kΩ) (if using hardware)
 3.	Connect P1.0 of the microcontroller to the oscilloscope's input.
 4.	Save the design and proceed to programming in Keil.
 
+<img width="692" height="480" alt="image" src="https://github.com/user-attachments/assets/316ee1ca-caa3-4970-9bd9-0a41bbe50246" />
+
 ## Algorithm:
 1.	Configure P1.0 as an output port.
 2.	Set P1.0 HIGH to generate a HIGH pulse.
@@ -64,7 +66,9 @@ o	Resistor (1kΩ) (if using hardware)
 ```
 ## Output:
 
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/f50e517b-d685-49fe-93dc-d0f37a6c6b06" />
+
+<img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/8b9b9e1b-777f-4ec3-873a-63fa04c97b25" />
+
 ## Result:
 The square wave generation using the 8051 microcontroller has been successfully implemented and simulated using Keil and Proteus.
-
-
